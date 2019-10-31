@@ -8,6 +8,7 @@ Clique na opção "carregar sem compactação", no canto superior esquerdo
 Selecione a pasta SherlockNews-master que você descompactou anteriormente
 
 E pronto, você está agora protegido contra as FakeNews
+Experimente entrar ou enviar links como "https://www.estadao.com.br/" ou "https://www.sensacionalista.com.br/" pelo WhatsApp Web para ver o que acontece
 Note que o ícone da extensão aparece no canto superior direito do navegador, do lado da barra de busca
 Ao clicar no ícone é possível encontrar mais informações sobre a extensão, assim como um campo para realizar sugestões
 Sinta-se a vontade para nos enviar comentários
